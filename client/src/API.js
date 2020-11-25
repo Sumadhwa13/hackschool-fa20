@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const serverUrl = "https://pokemongenerator.herokuapp.com/";
+const serverUrl = "https://pokemongenerator.herokuapp.com";
 
 const API = {
     getPokemon: function () {
